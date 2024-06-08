@@ -50,9 +50,8 @@ python manage.py runserver
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Alt text](![Screenshot (6)](https://github.com/nandu1331/Netflix-Clone/assets/116256681/c332e9fb-4da7-4a49-925e-15f2b3f167e3)
+)
 
 ## Contributing
 
