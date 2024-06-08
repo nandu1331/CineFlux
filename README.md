@@ -50,7 +50,7 @@ python manage.py runserver
 
 ## Screenshots
 
-HOME PAGE -  https://github.com/nandu1331/Netflix-Clone/assets/116256681/c332e9fb-4da7-4a49-925e-15f2b3f167e3
+![HOME PAGE : ](https://github.com/nandu1331/Netflix-Clone/assets/116256681/c332e9fb-4da7-4a49-925e-15f2b3f167e3)
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
