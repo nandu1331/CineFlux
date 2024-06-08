@@ -66,6 +66,11 @@ SEARCH PAGE :
 
 ![SEARCH PAGE](https://github.com/nandu1331/Netflix-Clone/assets/116256681/b07146c2-873b-4a44-a80f-bec834d2809b)
 
+VIDEO PLAYER :
+
+![VIDEO PLAYER](https://github.com/nandu1331/Netflix-Clone/assets/116256681/f2e59941-3ae1-4ba3-bffd-2599e41567e4)
+
+
 
 ## Contributing
 
