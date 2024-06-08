@@ -54,17 +54,17 @@ HOME PAGE :
 
 ![HOME PAGE : ](https://github.com/nandu1331/Netflix-Clone/assets/116256681/c332e9fb-4da7-4a49-925e-15f2b3f167e3)
 
-MY LISTS PAGE :
+SEARCH PAGE :
 
-![MY LISTS](https://github.com/nandu1331/Netflix-Clone/assets/116256681/87f5986e-567a-4e02-b1fa-6bc8ee52aa2e)
+![SEARCH PAGE](https://github.com/nandu1331/Netflix-Clone/assets/116256681/87f5986e-567a-4e02-b1fa-6bc8ee52aa2e)
 
 MOVIE PREVIEW :
 
 ![MOVIE PREVIEW](https://github.com/nandu1331/Netflix-Clone/assets/116256681/559ba3d3-8561-459b-8bb0-07defadac268)
 
-SEARCH PAGE :
+MY LISTS :
 
-![SEARCH PAGE](https://github.com/nandu1331/Netflix-Clone/assets/116256681/b07146c2-873b-4a44-a80f-bec834d2809b)
+![MY LISTS](https://github.com/nandu1331/Netflix-Clone/assets/116256681/b07146c2-873b-4a44-a80f-bec834d2809b)
 
 VIDEO PLAYER :
 
