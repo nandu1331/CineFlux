@@ -54,7 +54,7 @@ HOME PAGE -
 ![HOME PAGE : ](https://github.com/nandu1331/Netflix-Clone/assets/116256681/c332e9fb-4da7-4a49-925e-15f2b3f167e3)
 
 MY LISTS PAGE -
-![MY LISTS]()
+![MY LISTS](![Screenshot (10)](https://github.com/nandu1331/Netflix-Clone/assets/116256681/87f5986e-567a-4e02-b1fa-6bc8ee52aa2e)
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
