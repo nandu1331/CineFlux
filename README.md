@@ -62,6 +62,11 @@ MOVIE PREVIEW :
 
 ![MOVIE PREVIEW](https://github.com/nandu1331/Netflix-Clone/assets/116256681/559ba3d3-8561-459b-8bb0-07defadac268)
 
+SEARCH PAGE :
+
+![SEARCH PAGE](https://github.com/nandu1331/Netflix-Clone/assets/116256681/b07146c2-873b-4a44-a80f-bec834d2809b)
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
