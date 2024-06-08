@@ -1,6 +1,4 @@
-Sure, here's a sample README.md file for your Netflix clone project:
 
-```markdown
 # Netflix Clone Project
 
 This is a Netflix clone project developed using Django for backend, HTML, CSS, and JavaScript for frontend. The project aims to replicate some of the basic functionalities and design elements of the popular streaming platform Netflix.
