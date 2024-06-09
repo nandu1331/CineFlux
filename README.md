@@ -74,9 +74,4 @@ VIDEO PLAYER :
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
 Make sure to replace `your-username` with your actual GitHub username and add your project's screenshots to a directory named `screenshots` in the project root.
