@@ -53,7 +53,8 @@ CineFlux is a multimedia streaming platform developed using Django for the backe
 
 **HOME PAGE:**
 
-![HOME PAGE]
+![HOME PAGE](https://github.com/nandu1331/CineFlux/assets/116256681/c76798b3-f56b-43a5-93e3-db3d54759a22)
+
 
 **SEARCH PAGE:**
 
